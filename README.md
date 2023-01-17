@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HussamAnawr
 - 👀 I’m interested in mobile app and web development
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 o.hussam@gmail.com
 
